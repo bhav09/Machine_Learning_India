@@ -13,3 +13,6 @@ This repository is dedicated to maintain the list of technical content that I ha
   
   5. PDF text extraction : https://www.instagram.com/p/CE4Bnvxgx10/
   
+  6. Eye Detection using open cv : https://www.instagram.com/p/CFcEYl-AZtM/
+  
+  
