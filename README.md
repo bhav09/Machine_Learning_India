@@ -15,4 +15,6 @@ This repository is dedicated to maintain the list of technical content that I ha
   
   6. Eye Detection using open cv : https://www.instagram.com/p/CFcEYl-AZtM/
   
+  7. Simple Charts in Python : https://www.instagram.com/p/CEJr2Y6AoZa/
+  
   
