@@ -1,5 +1,5 @@
 # Machine_Learning_India
-This repository is dedicated to maintain the list of technical content that I have contributed. 
+This repository is dedicated to maintain the list of technical content that I have contributed to Machine Learning India.
 
 ### List
   
